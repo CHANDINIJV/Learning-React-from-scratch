@@ -1,0 +1,33 @@
+1. What is Emmet?
+   Ans:Emmet  is a set of plug-ins for text editors that allows 
+   for high-speed coding and editing in HTML, XML etc..
+2. Difference between Library and Framework?
+      Framework                           |            Library
+ => Controls the overall flow of            =>Developer retains control over the flow
+the application
+=> More comprehensive, providing a broad    => Focuses on specific functionality or problem-solving
+ set of tools
+=> More rigid with strict conventions       => More flexible, allowing selective usage
+and guidelines
+
+3.What is CDN? Why do we use it?
+A content delivery network (CDN) is a group of geographically distributed servers that speed up the delivery 
+of web content by bringing it closer to where users are.
+USE:
+A CDN allows for the quick transfer of assets needed for loading Internet content, including HTML pages,
+ JavaScript files, stylesheets, images, and videos
+ 4. Why is React known as React?
+   "React is called React because it reacts only when there are changes in
+    the component's state or props
+5. What is crossorigin in script tag?
+   The crossorigin attribute sets the mode of the request to an HTTP CORS Request. Web pages often make 
+   requests to load resources on other servers. Here is where CORS comes in. A cross-origin  request is 
+   a request for a resource (e.g. style sheets,iframes, images, fonts, or scripts) from another domain.
+6. What is diference between React and ReactDOM
+   React                                |      ReactDOM
+   1. React is the library that powers     1. ReactDOM is the package that facilitates the rendering of those 
+                                               components into the browser’s DOM.
+    the component-based architecture 
+    and handles the logic
+
+7.  What is difference between react.development.js and react.production.js files via CDN?
