@@ -9,5 +9,11 @@
     <div id="demo">
         <h1>Hello world</h1>
     </div>
+    <script>
+        const heading = document.createElement("h1");
+        heading.innerHTML = "hello world from javascript";
+        const root  = document.getElementById("demo");
+        root.appendChild(heading);
+    </script>
 </body>
 </html>
