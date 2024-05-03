@@ -1,0 +1,27 @@
+{
+  "name": "learning-react-from-scratch",
+  "version": "1.0.0",
+  "description": "Namaste React",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHANDINIJV/Learning-React-from-scratch.git"
+  },
+  "keywords": [],
+  "author": "Chandini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CHANDINIJV/Learning-React-from-scratch/issues"
+  },
+  "homepage": "https://github.com/CHANDINIJV/Learning-React-from-scratch#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+
+  "browsersList":[
+    "last 2 versions"
+  ]
+}
